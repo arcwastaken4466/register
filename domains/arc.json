@@ -1,0 +1,11 @@
+{
+    "description": "I will use this subdomain for a biopage and for mail forwarding.",
+    "owner": {
+        "username": "arcwastaken4466",
+        "email": "oxyroses2021@gmail.com",
+        "discord": "y.bp"
+    },
+    "record": {
+        "NS": ["betty.ns.cloudflare.com", "cody.ns.cloudflare.com"]
+    }
+}
